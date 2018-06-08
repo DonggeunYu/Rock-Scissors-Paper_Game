@@ -1,0 +1,10 @@
+C:\Users\jkl81\Desktop\가위바위보\가위바위보\bin\Debug\가위바위보.exe.config
+C:\Users\jkl81\Desktop\가위바위보\가위바위보\bin\Debug\가위바위보.exe
+C:\Users\jkl81\Desktop\가위바위보\가위바위보\bin\Debug\가위바위보.pdb
+C:\Users\jkl81\Desktop\가위바위보\가위바위보\obj\Debug\가위바위보.csprojAssemblyReference.cache
+C:\Users\jkl81\Desktop\가위바위보\가위바위보\obj\Debug\가위바위보.Form1.resources
+C:\Users\jkl81\Desktop\가위바위보\가위바위보\obj\Debug\가위바위보.Properties.Resources.resources
+C:\Users\jkl81\Desktop\가위바위보\가위바위보\obj\Debug\가위바위보.csproj.GenerateResource.cache
+C:\Users\jkl81\Desktop\가위바위보\가위바위보\obj\Debug\가위바위보.csproj.CoreCompileInputs.cache
+C:\Users\jkl81\Desktop\가위바위보\가위바위보\obj\Debug\가위바위보.exe
+C:\Users\jkl81\Desktop\가위바위보\가위바위보\obj\Debug\가위바위보.pdb
